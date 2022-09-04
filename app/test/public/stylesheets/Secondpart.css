@@ -1,0 +1,50 @@
+@import
+url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+body{
+	background-color: rgb(24,95,173);
+	font-family: courier;
+	color: #ffffff;
+	padding:10px;
+
+}
+
+.center_text{
+        	text-align: center;
+    		font-family: courier;
+    		font-weight: bold;
+    		padding:10px;
+}
+
+
+button{
+	background-color: yellow;
+	padding:10px;
+
+}
+button:hover{
+	background-color: rgb(24,95,173);
+	color: white;
+	padding:10px;
+	border-color: white;
+
+}
+
+table{
+	width: 100%;
+	font-family: courier;
+	background-color: yellow;
+	color: black;
+}
+th{
+	text-align: center;
+	padding: 15px;
+}
+mark{
+	background-color: rgb(24,95,173);
+	color: white;
+}
+li{
+	background-color: yellow;
+	color: black;
+}
+
